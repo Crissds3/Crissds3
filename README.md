@@ -70,5 +70,21 @@
   </a>
 </p>
 
+<br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/cristóbal-nicolás-núñez-medina-556407338/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adam pithewan" height="30" width="40" /></a>
+<a href="mailto:cnunez21@alumnos.utalca.cl" target="blank">
+  <img align="center" src="https://img.icons8.com/fluency/48/000000/microsoft-outlook-2019.png" alt="Outlook" height="40" width="40" />
+</a>
+
+
+
+  
+</p>
+
 
 <br>
